@@ -1,0 +1,16 @@
+promble no 3 :
+
+a=int(input(" enter a first value :"))
+b=int(input("enter a second value:"))
+operation=input("add/sub/mul/div;")
+if operation=="add":
+    print(a+b)
+elif operation=="sub":
+    print(a-b)
+elif operation=="mul":
+    print(a*b)
+elif operation=="div":
+    print(a/b)
+else :
+    print("invild value")
+   
