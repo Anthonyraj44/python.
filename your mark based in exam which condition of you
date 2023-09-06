@@ -1,0 +1,10 @@
+promblem no :3
+student=int(input("your mark is :"))
+if (student<35):
+    print(" you are poor student")
+if (student>35 and student<76):
+    print("you are avarage student")
+if (student>75 and student<101):
+    print("you are excellent student")
+
+
