@@ -1,0 +1,10 @@
+promblem no 3
+
+a=int(input("enter your percentage :"))
+if (a>=70) and (a<=100):
+    name=input("enter your name :")
+    age=input("your age:")
+    choose your department =input("your department:")
+    print( " you are eligible student")
+elif (a>=101):
+    print("you are not eligible ")
