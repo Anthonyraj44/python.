@@ -1,0 +1,15 @@
+promlem 5
+
+a=int(input(" your tamil mark :"))
+b=int(input("your english mark :"))
+c=int(input("your maths mark:"))
+d=int(input("your science mark:"))
+e=int(input("your social science mark:"))
+f=(a+b+c+d+e)/5
+print(f)
+if (f>35):
+    print (" you go to 11th class ")
+else:
+    print("you do work")
+
+
