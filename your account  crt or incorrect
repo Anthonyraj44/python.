@@ -1,0 +1,17 @@
+# python.
+promble : 10
+
+username="alex"
+password="1246"
+u_name=input(" enter user name:")
+p_word=input("ener password:")
+
+def alex():
+    if (username==u_name and password==p_word):
+        print(" your account is crt")
+    else:
+        print("your account is incorrct")
+        
+
+alex()     
+
