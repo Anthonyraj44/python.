@@ -1,0 +1,13 @@
+# python.
+problem :10
+
+def alex(a,b):
+    return a+b
+a=int(input("enter a :"))
+b=int(input("enter b:"))
+c=int(input("enter c:"))
+
+added =alex(a,b)
+output=added*c                  # (a+b)*c
+print(output)
+
