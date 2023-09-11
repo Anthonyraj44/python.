@@ -1,0 +1,8 @@
+# python.
+problem : 8
+
+def alex ():
+    a=int(input(" enter a first value:"))
+    b=int(input("enter a second value:"))
+    print("the total value is :",a+b)
+    
